@@ -21,4 +21,3 @@ Let's say XYZ is a LinkedIn influencer and he needs help in writing his future p
    ```command line
    streamlit run main.py
    ```
-
